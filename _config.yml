@@ -1,0 +1,28 @@
+name: Banuet
+favicon: null
+layout_spectrum: 0.8023478894028813
+typography_spectrum: 0.12923586764372885
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5829182809684426
+  lightness: 0.6648454354144633
+  saturation: 0.7966048817615956
+  rhythmicContrast: 0.46341863088309765
+purpose: []

@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Anillos dobles unidos por cadenas a ambos lados
-datePublished: '2016-02-12T21:13:10.597Z'
-dateModified: '2016-02-12T21:12:42.236Z'
+datePublished: '2016-02-12T21:24:46.200Z'
+dateModified: '2016-02-12T21:24:29.457Z'
 title: Anillos dobles
 author: []
+sourcePath: _posts/2016-02-12-anillos-dobles.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-12-anillos-dobles.md
-published: true
 url: anillos-dobles/index.html
-_type: Blurb
+_type: Article
 
 ---
 $800
